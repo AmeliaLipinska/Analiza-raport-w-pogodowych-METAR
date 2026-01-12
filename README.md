@@ -5,7 +5,15 @@ This is a **C++ console program** for reading, processing, and interpreting META
 
 ## Author
 - **Name:** Amelia Lipińska  
-- **Index Number:** 203721  
+- **Index Number:** 203721
+
+#Example of the text inside the file:
+EPGD 291000Z 36008KT 9000 -RA FEW007 BKN020 06/04 Q1028 
+EPGD 020500Z 17009KT 3000 BR BKN002 00/M00 Q1016 
+EPGD 022200Z 23009KT 6000 OVC003 03/03 Q1012
+
+#Translation of thet text by the program:
+![METAR](metar.jpg)
 
 ## Features
 - Reads METAR data from a file (`Metar_Gdansk.txt`).  
